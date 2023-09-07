@@ -24,27 +24,6 @@ body{
   background-image: linear-gradient(to right,#c6ffdd,#fbd786,#f7797d);
 }
 
-/* Style for the select dropdown */
-#dropdown {
-  width: 20%;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  background-color: #fff;
-  text-align: center;
-}
-
-
-#dropdown option {
-  padding: 10px;
-  font-size: 16px;
-  border-bottom: 1px solid #ccc;
-}
-
-/* Style the select when it's open (clicked) */
-#dropdown:focus {
-  display: block;
-} 
-
 li{
   list-style: none;
   font-family: 'Josefin Sans', sans-serif;
